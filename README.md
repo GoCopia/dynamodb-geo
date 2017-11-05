@@ -1,4 +1,5 @@
 #Geo Library for Amazon DynamoDB
+Tutorial on how to use this found here https://blog.corkhounds.com/2017/06/19/geospatial-queries-on-aws-dynamodb/ (reasonably recent as of Nov 17)
 
 This library was forked from the [AWS geo library][geo-library-javadoc].
 
